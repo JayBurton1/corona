@@ -1,0 +1,6535 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Corona Virus Stats</title>
+
+<style>
+body
+{
+font-family: roboto, sans-serif;
+font-size: 11pt;
+background-color: black;
+font-weight: bold;
+}
+
+table, th, td
+{
+border: 1px solid black;
+border-collapse: collapse;
+opacity: 1;
+}
+
+th, td
+{
+padding: 10px;
+text-align: center;
+}
+
+th
+{
+background-color: red;
+color: white;
+}
+
+tr:nth-child(even)
+{
+background-color: #e8e8e8;
+}
+
+tr:nth-child(odd)
+{
+background-color: white;
+}
+
+#header
+{
+background-color: #005cb7;
+color: white;
+font-family: roboto, sans-serif;
+font-weight: bold;
+}
+
+#green
+{
+color: green;
+}
+
+#red
+{
+color: red;
+}
+
+h1
+{
+color: white;
+font-family: roboto, sans-serif;
+font-weight: bold;
+}
+</style>
+
+</head>
+<h1>COVID-19 CoronaVirus Stats</h1>
+
+<body>
+
+<table>
+
+<tr>
+<td id="header" colspan="10">Confirmed Cases</td>
+</tr>
+
+<tr>
+<th>Country/Republic/Conveyance</th>
+<th>Jan 12th</th>
+<th>13th</th>
+<th>14th</th>
+<th>15th</th>
+<th>16th</th>
+<th>17th</th>
+<th>18th</th>
+<th>19th</th>
+<th>20th</th>
+<th>21st</th>
+<th>22nd</th>
+<th>23rd</th>
+<th>24th</th>
+<th>25th</th>
+<th>26th</th>
+<th>27th</th>
+<th>28th</th>
+<th>29th</th>
+<th>30th</th>
+<th>31st</th>
+<th>Feb 1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+<th>6th</th>
+<th>7th</th>
+<th>8th</th>
+<th>9th</th>
+<th>10th</th>
+<th>11th</th>
+<th>12th</th>
+<th>13th</th>
+<th>14th</th>
+<th>15th</th>
+<th>16th</th>
+<th>17th</th>
+<th>18th</th>
+<th>19th</th>
+<th>20th</th>
+<th>21st</th>
+<th>22nd</th>
+<th>23rd</th>
+<th>24th</th>
+<th>26th</th>
+<th>27th</th>
+<th>28th</th>
+<th>29th</th>
+<th>Mar 1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+<th>6th</th>
+<th>7th</th>
+<th>8th</th>
+<th>9th</th>
+<th>10th</th>
+</tr>
+
+<tr>
+<td>China</td>
+<td id="green">41</td>
+<td>41</td>
+<td>41</td>
+<td>41</td>
+<td id="green">45</td>
+<td id="green">62</td>
+<td id="green">121</td>
+<td id="green">198</td>
+<td id="green">291</td>
+<td id="green">440</td>
+<td id="green">571</td>
+<td id="green">830</td>
+<td id="green">1287</td>
+<td id="green">1975</td>
+<td id="green">2744</td>
+<td id="green">4515</td>
+<td id="green">5974</td>
+<td id="green">7711</td>
+<td id="green">9692</td>
+<td id="green">11791</td>
+<td id="green">14380</td>
+<td id="green">17205</td>
+<td id="green">20438</td>
+<td id="green">23646</td>
+<td id="green">28018</td>
+<td id="green">30536</td>
+<td id="green">34048</td>
+<td id="green">37198</td>
+<td id="green">39767</td>
+<td id="green">42268</td>
+<td id="green">44276</td>
+<td id="green">59493</td>
+<td id="green">63866</td>
+<td id="green">66286</td>
+<td id="green">66497</td>
+<td id="green">70450</td>
+<td id="green">72438</td>
+<td id="green">74185</td>
+<td id="green">75766</td>
+<td id="green">75893</td>
+<td>75893</td>
+<td id="green">76291</td>
+<td id="green">77150</td>
+<td id="green">77660</td>
+<td id="green">78064</td>
+<td id="green">78515</td>
+<td id="green">78824</td>
+<td id="green">79251</td>
+<td id="green">79826</td>
+<td id="green">80026</td>
+<td id="green">80151</td>
+<td id="green">80270</td>
+<td id="green">80422</td>
+<td id="green">80556</td>
+<td id="green">80652</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Thailand</td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">5</td>
+<td id="green">7</td>
+<td id="green">8</td>
+<td>8</td>
+<td id="green">14</td>
+<td>14</td>
+<td>14</td>
+<td id="green">19</td>
+<td>19</td>
+<td>19</td>
+<td>19</td>
+<td id="green">25</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td id="green">32</td>
+<td>32</td>
+<td>32</td>
+<td id="green">33</td>
+<td>33</td>
+<td>33</td>
+<td>33</td>
+<td id="green">34</td>
+<td>34</td>
+<td id="green">35</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td id="green">37</td>
+<td id="green">40</td>
+<td>40</td>
+<td id="green">41</td>
+<td id="green">42</td>
+<td>42</td>
+<td id="green">43</td>
+<td>43</td>
+<td>43</td>
+<td id="green">47</td>
+<td id="green">48</td>
+<td id="green">50</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Japan</td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">7</td>
+<td id="green">14</td>
+<td id="green">14</td>
+<td id="green">17</td>
+<td id="green">20</td>
+<td>20</td>
+<td>20</td>
+<td id="green">23</td>
+<td id="green">35</td>
+<td id="green">45</td>
+<td id="red">25</td>
+<td>25</td>
+<td id="green">26</td>
+<td>26</td>
+<td id="green">28</td>
+<td id="green">29</td>
+<td id="green">41</td>
+<td>41</td>
+<td id="green">53</td>
+<td id="green">59</td>
+<td id="green">74</td>
+<td id="green">84</td>
+<td>84</td>
+<td id="green">108</td>
+<td>108</td>
+<td id="green">134</td>
+<td id="green">154</td>
+<td id="green">160</td>
+<td id="green">172</td>
+<td id="green">207</td>
+<td id="green">228</td>
+<td id="green">241</td>
+<td>241</td>
+<td id="green">274</td>
+<td id="green">293</td>
+<td id="green">304</td>
+<td id="green">360</td>
+<td id="green">381</td>
+<td id="green">461</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>South Korea</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td>4</td>
+<td>4</td>
+<td id="green">6</td>
+<td id="green">11</td>
+<td id="green">12</td>
+<td id="green">15</td>
+<td>15</td>
+<td id="green">16</td>
+<td id="green">23</td>
+<td>23</td>
+<td id="green">24</td>
+<td>24</td>
+<td id="green">25</td>
+<td id="green">27</td>
+<td id="green">28</td>
+<td>28</td>
+<td>28</td>
+<td>28</td>
+<td>28</td>
+<td id="green">29</td>
+<td id="green">31</td>
+<td id="green">53</td>
+<td>53</td>
+<td id="green">205</td>
+<td>205</td>
+<td id="green">433</td>
+<td id="green">833</td>
+<td id="green">977</td>
+<td id="green">1261</td>
+<td id="green">1766</td>
+<td id="green">2337</td>
+<td id="green">3150</td>
+<td id="green">3736</td>
+<td id="green">4335</td>
+<td id="green">5186</td>
+<td id="green">5921</td>
+<td id="green">6088</td>
+<td id="green">6593</td>
+<td id="green">7041</td>
+<td></td>
+<td></td>
+<td></td> 
+</tr>
+
+<tr>
+<td>Taiwan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">3</td>
+<td>3</td>
+<td id="green">4</td>
+<td id="green">5</td>
+<td id="green">8</td>
+<td>8</td>
+<td id="green">9</td>
+<td id="green">10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td id="green">11</td>
+<td>11</td>
+<td id="green">16</td>
+<td>16</td>
+<td id="green">17</td>
+<td id="green">18</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td id="green">20</td>
+<td id="green">22</td>
+<td id="green">23</td>
+<td>23</td>
+<td id="green">26</td>
+<td>26</td>
+<td>26</td>
+<td id="green">30</td>
+<td id="green">31</td>
+<td id="green">32</td>
+<td>32</td>
+<td id="green">34</td>
+<td id="green">39</td>
+<td id="green">40</td>
+<td id="green">41</td>
+<td id="green">42</td>
+<td>42</td>
+<td id="green">44</td>
+<td id="green">45</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>United States</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td id="green">6</td>
+<td id="green">7</td>
+<td id="green">8</td>
+<td id="green">9</td>
+<td id="green">11</td>
+<td>11</td>
+<td id="green">12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td id="green">13</td>
+<td>13</td>
+<td id="green">15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td id="green">35</td>
+<td>35</td>
+<td>35</td>
+<td id="green">53</td>
+<td>53</td>
+<td id="green">60</td>
+<td>60</td>
+<td id="green">62</td>
+<td id="green">68</td>
+<td id="green">71</td>
+<td id="green">91</td>
+<td id="green">103</td>
+<td id="green">128</td>
+<td id="green">162</td>
+<td id="green">236</td>
+<td id="green">401</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Macau</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">6</td>
+<td id="green">7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td id="green">8</td>
+<td>8</td>
+<td id="green">10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Hong Kong</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">5</td>
+<td>5</td>
+<td id="green">8</td>
+<td>8</td>
+<td>8</td>
+<td id="green">11</td>
+<td>11</td>
+<td id="green">13</td>
+<td>13</td>
+<td id="green">14</td>
+<td id="green">15</td>
+<td id="green">17</td>
+<td id="green">21</td>
+<td id="green">24</td>
+<td id="green">26</td>
+<td>26</td>
+<td id="green">29</td>
+<td id="green">42</td>
+<td id="green">49</td>
+<td id="green">50</td>
+<td id="green">56</td>
+<td>56</td>
+<td>56</td>
+<td id="green">57</td>
+<td id="green">62</td>
+<td id="green">65</td>
+<td>65</td>
+<td id="green">69</td>
+<td>69</td>
+<td id="green">70</td>
+<td id="green">81</td>
+<td id="green">84</td>
+<td id="green">91</td>
+<td id="green">92</td>
+<td id="green">94</td>
+<td>94</td>
+<td>98</td>
+<td id="green">100</td>
+<td>100</td>
+<td id="green">102</td>
+<td id="green">105</td>
+<td id="green">106</td>
+<td id="green">109</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Vietnam</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">5</td>
+<td>5</td>
+<td id="green">6</td>
+<td id="green">7</td>
+<td id="green">8</td>
+<td id="green">10</td>
+<td>10</td>
+<td id="green">12</td>
+<td>12</td>
+<td id="green">13</td>
+<td>13</td>
+<td id="green">14</td>
+<td id="green">15</td>
+<td>15</td>
+<td id="green">16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td id="green">17</td>
+<td id="green">20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Singapore</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">5</td>
+<td id="green">7</td>
+<td id="green">10</td>
+<td id="green">13</td>
+<td id="green">16</td>
+<td id="green">18</td>
+<td>18</td>
+<td>18</td>
+<td id="green">24</td>
+<td id="green">28</td>
+<td id="green">30</td>
+<td id="green">33</td>
+<td id="green">40</td>
+<td>40</td>
+<td id="green">45</td>
+<td id="green">47</td>
+<td id="green">50</td>
+<td id="green">67</td>
+<td>67</td>
+<td id="green">72</td>
+<td id="green">75</td>
+<td id="green">81</td>
+<td id="green">84</td>
+<td>84</td>
+<td id="green">86</td>
+<td>86</td>
+<td id="green">89</td>
+<td id="green">90</td>
+<td id="green">91</td>
+<td id="green">93</td>
+<td id="green">96</td>
+<td id="green">98</td>
+<td id="green">102</td>
+<td id="green">106</td>
+<td id="green">108</td>
+<td id="green">110</td>
+<td id="green">112</td>
+<td id="green">117</td>
+<td id="green">130</td>
+<td id="green">138</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>France</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">4</td>
+<td id="green">5</td>
+<td id="green">6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td id="green">11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td id="green">12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td id="green">18</td>
+<td>18</td>
+<td id="green">57</td>
+<td id="green">73</td>
+<td id="green">104</td>
+<td id="green">130</td>
+<td id="green">204</td>
+<td id="green">257</td>
+<td id="green">377</td>
+<td id="green">577</td>
+<td id="green">949</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Nepal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Malaysia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">4</td>
+<td>4</td>
+<td>4</td>
+<td id="green">7</td>
+<td>7</td>
+<td id="green">8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td id="green">10</td>
+<td id="green">12</td>
+<td id="green">14</td>
+<td id="green">15</td>
+<td id="green">16</td>
+<td>16</td>
+<td id="green">18</td>
+<td>18</td>
+<td>18</td>
+<td id="green">19</td>
+<td>19</td>
+<td id="green">22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td id="green">23</td>
+<td id="green">25</td>
+<td>25</td>
+<td id="green">29</td>
+<td>29</td>
+<td id="green">36</td>
+<td id="green">50</td>
+<td id="green">55</td>
+<td id="green">83</td>
+<td id="green">93</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Australia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">5</td>
+<td>5</td>
+<td id="green">7</td>
+<td id="green">9</td>
+<td>9</td>
+<td id="green">12</td>
+<td>12</td>
+<td>12</td>
+<td id="green">13</td>
+<td id="green">14</td>
+<td id="green">15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td id="green">19</td>
+<td>19</td>
+<td id="green">21</td>
+<td id="green">22</td>
+<td>22</td>
+<td id="green">23</td>
+<td>23</td>
+<td id="green">24</td>
+<td id="green">25</td>
+<td id="green">26</td>
+<td id="green">30</td>
+<td id="green">39</td>
+<td id="green">50</td>
+<td id="green">57</td>
+<td id="green">63</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Canada</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">3</td>
+<td>3</td>
+<td id="green">4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td id="green">5</td>
+<td id="green">7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td id="green">8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td id="green">9</td>
+<td>9</td>
+<td>9</td>
+<td id="green">11</td>
+<td>11</td>
+<td id="green">12</td>
+<td>12</td>
+<td id="green">14</td>
+<td id="green">16</td>
+<td id="green">20</td>
+<td id="green">24</td>
+<td id="green">29</td>
+<td id="green">33</td>
+<td id="green">35</td>
+<td id="green">46</td>
+<td id="green">54</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Germany</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">5</td>
+<td id="green">7</td>
+<td id="green">8</td>
+<td id="green">10</td>
+<td id="green">12</td>
+<td>12</td>
+<td>12</td>
+<td id="green">13</td>
+<td id="green">14</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td id="green">16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td id="green">19</td>
+<td id="green">27</td>
+<td id="green">60</td>
+<td id="green">79</td>
+<td id="green">129</td>
+<td id="green">150</td>
+<td id="green">188</td>
+<td id="green">244</td>
+<td id="green">444</td>
+<td id="green">578</td>
+<td id="green">799</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sri Lanka</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Cambodia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Finland</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td id="green">5</td>
+<td id="green">6</td>
+<td id="green">7</td>
+<td>7</td>
+<td id="green">12</td>
+<td id="green">15</td>
+<td id="green">19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>United Arab Emirates</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">4</td>
+<td id="green">5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td id="green">7</td>
+<td>7</td>
+<td>7</td>
+<td id="green">8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td id="green">9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td id="green">11</td>
+<td>11</td>
+<td id="green">13</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td id="green">19</td>
+<td id="green">21</td>
+<td>21</td>
+<td>21</td>
+<td id="green">27</td>
+<td>27</td>
+<td id="green">28</td>
+<td id="green">29</td>
+<td id="green">45</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>India</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">5</td>
+<td id="green">6</td>
+<td id="green">29</td>
+<td id="green">30</td>
+<td id="green">31</td>
+<td id="green">34</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Italy</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">21</td>
+<td>21</td>
+<td id="green">79</td>
+<td id="green">229</td>
+<td id="green">288</td>
+<td id="green">470</td>
+<td id="green">528</td>
+<td id="green">888</td>
+<td id="green">1128</td>
+<td id="green">1694</td>
+<td id="green">2036</td>
+<td id="green">2502</td>
+<td id="green">3089</td>
+<td id="green">3089</td>
+<td id="green">4636</td>
+<td id="green">5883</td>
+<td id="green"></td>
+<td id="green"></td>
+<td id="green"></td>
+</tr>
+
+<tr>
+<td>United Kingdom</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">8</td>
+<td>8</td>
+<td id="green">9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td id="green">13</td>
+<td>13</td>
+<td>13</td>
+<td id="green">15</td>
+<td id="green">20</td>
+<td id="green">23</td>
+<td id="green">35</td>
+<td id="green">40</td>
+<td id="green">51</td>
+<td id="green">87</td>
+<td id="green">115</td>
+<td id="green">164</td>
+<td id="green">206</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Spain</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td id="green">13</td>
+<td id="green">15</td>
+<td id="green">33</td>
+<td id="green">50</td>
+<td id="green">79</td>
+<td id="green">120</td>
+<td id="green">152</td>
+<td id="green">213</td>
+<td id="green">259</td>
+<td id="green">360</td>
+<td id="green">513</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sweden</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">11</td>
+<td id="green">12</td>
+<td id="green">13</td>
+<td id="green">15</td>
+<td>15</td>
+<td id="green">35</td>
+<td id="green">60</td>
+<td id="green">101</td>
+<td id="green">161</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Russia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">4</td>
+<td id="green">10</td>
+<td id="green">17</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Philippines</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">5</td>
+<td id="green">6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Belgium</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">8</td>
+<td id="green">13</td>
+<td id="green">23</td>
+<td id="green">50</td>
+<td id="green">109</td>
+<td id="green">169</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Diamond Princess</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">64</td>
+<td>64</td>
+<td id="green">135</td>
+<td id="green">136</td>
+<td id="green">174</td>
+<td id="green">218</td>
+<td>218</td>
+<td id="green">285</td>
+<td id="green">355</td>
+<td id="green">542</td>
+<td id="green">572</td>
+<td id="green">621</td>
+<td id="green">634</td>
+<td>634</td>
+<td>634</td>
+<td id="green">691</td>
+<td>691</td>
+<td id="green">705</td>
+<td>705</td>
+<td>705</td>
+<td>705</td>
+<td>705</td>
+<td id="green">706</td>
+<td id="red">705</td>
+<td>705</td>
+<td id="green">706</td>
+<td>706</td>
+<td id="red">696</td>
+<td>696</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Egypt</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">15</td>
+<td id="green">48</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Iran</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">18</td>
+<td>18</td>
+<td id="green">29</td>
+<td id="green">61</td>
+<td id="green">95</td>
+<td id="green">139</td>
+<td id="green">245</td>
+<td id="green">388</td>
+<td id="green">593</td>
+<td id="green">978</td>
+<td id="green">1501</td>
+<td id="green">2336</td>
+<td id="green">2922</td>
+<td id="green">3513</td>
+<td id="green">4747</td>
+<td id="green">5823</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Israel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">3</td>
+<td id="green">7</td>
+<td>7</td>
+<td>7</td>
+<td id="green">10</td>
+<td id="green">12</td>
+<td id="green">15</td>
+<td>15</td>
+<td id="green">17</td>
+<td id="green">25</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Lebanon</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td id="green">7</td>
+<td id="green">10</td>
+<td id="green">13</td>
+<td>13</td>
+<td>13</td>
+<td id="green">16</td>
+<td>16</td>
+<td id="green">28</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Iraq</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">5</td>
+<td>5</td>
+<td id="green">6</td>
+<td id="green">8</td>
+<td id="green">13</td>
+<td id="green">19</td>
+<td id="green">21</td>
+<td id="green">26</td>
+<td id="green">32</td>
+<td id="green">35</td>
+<td id="green">40</td>
+<td id="green">54</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Bahrain</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">17</td>
+<td id="green">33</td>
+<td>33</td>
+<td id="green">38</td>
+<td id="green">41</td>
+<td>41</td>
+<td id="green">49</td>
+<td>49</td>
+<td>49</td>
+<td id="green">55</td>
+<td>55</td>
+<td id="green">85</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Afghanistan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Oman</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td id="green">12</td>
+<td>12</td>
+<td id="green">15</td>
+<td id="green">16</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Kuwait</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">3</td>
+<td id="green">8</td>
+<td id="green">26</td>
+<td id="green">43</td>
+<td id="green">45</td>
+<td>45</td>
+<td id="green">46</td>
+<td id="green">56</td>
+<td>56</td>
+<td>56</td>
+<td id="green">58</td>
+<td>58</td>
+<td id="green">61</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Croatia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">3</td>
+<td>3</td>
+<td id="green">5</td>
+<td id="green">6</td>
+<td>6</td>
+<td id="green">8</td>
+<td id="green">9</td>
+<td id="green">10</td>
+<td>10</td>
+<td id="green">11</td>
+<td id="green">12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Austria</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">3</td>
+<td id="green">5</td>
+<td id="green">9</td>
+<td id="green">14</td>
+<td id="green">16</td>
+<td id="green">21</td>
+<td id="green">27</td>
+<td id="green">37</td>
+<td id="green">47</td>
+<td id="green">79</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Switzerland</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">4</td>
+<td id="green">15</td>
+<td id="green">18</td>
+<td id="green">24</td>
+<td id="green">38</td>
+<td id="green">43</td>
+<td id="green">69</td>
+<td id="green">95</td>
+<td id="green">214</td>
+<td id="green">268</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Romania</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">4</td>
+<td id="green">6</td>
+<td id="green">6</td>
+<td id="green">7</td>
+<td id="green">12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Norway</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">5</td>
+<td id="green">15</td>
+<td id="green">17</td>
+<td id="green">25</td>
+<td id="green">32</td>
+<td id="green">48</td>
+<td id="green">72</td>
+<td id="green">106</td>
+<td id="green">147</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>North Macidonia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Greece</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">7</td>
+<td>7</td>
+<td>7</td>
+<td id="green">8</td>
+<td id="green">31</td>
+<td id="green">45</td>
+<td id="green">66</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Georgia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">4</td>
+<td id="green">9</td>
+<td id="green">12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Brazil</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">4</td>
+<td id="green">10</td>
+<td id="green">19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Algeria</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">3</td>
+<td id="green">5</td>
+<td id="green">8</td>
+<td id="green">17</td>
+<td>17</td>
+<td id="green">19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Pakistan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">4</td>
+<td>4</td>
+<td>4</td>
+<td id="green">5</td>
+<td>5</td>
+<td>5</td>
+<td id="green">6</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Denmark</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td>3</td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">10</td>
+<td id="green">15</td>
+<td id="green">23</td>
+<td id="green">29</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Estonia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td id="green">10</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Mexico</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td id="green">5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td id="green">6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Netherlands</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td id="green">6</td>
+<td id="green">10</td>
+<td id="green">18</td>
+<td>18</td>
+<td id="green">38</td>
+<td id="green">82</td>
+<td id="green">128</td>
+<td id="green">188</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Azerbaijan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td id="green">6</td>
+<td>6</td>
+<td id="green">9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Belarus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Iceland</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">3</td>
+<td id="green">11</td>
+<td id="green">16</td>
+<td id="green">34</td>
+<td id="green">37</td>
+<td id="green">50</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Lithuania</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>New Zealand</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td id="green">4</td>
+<td id="green">5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Nigeria</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>San Marino</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">8</td>
+<td>8</td>
+<td id="green">16</td>
+<td id="green">21</td>
+<td>21</td>
+<td id="green">23</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Ecuador</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">6</td>
+<td>6</td>
+<td id="green">10</td>
+<td>10</td>
+<td id="green">13</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Monaco</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Qatar</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">7</td>
+<td>7</td>
+<td id="green">8</td>
+<td>8</td>
+<td id="green">11</td>
+<td id="green">12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Czech Republic</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">3</td>
+<td>3</td>
+<td id="green">5</td>
+<td id="green">8</td>
+<td id="green">12</td>
+<td>12</td>
+<td id="green">21</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Armenia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Dominican Republic</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Ireland</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">6</td>
+<td id="green">13</td>
+<td id="green">19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Luxembourg</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Indonesia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td id="green">4</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Portugal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">5</td>
+<td id="green">8</td>
+<td id="green">13</td>
+<td id="green">20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Andorra</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Jordan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Latvia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Saudi Arabia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">5</td>
+<td>5</td>
+<td id="green">7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Senegal</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">4</td>
+<td>4</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Tunisia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Argentina</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">2</td>
+<td id="green">8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Liechtenstein</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Morocco</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Ukraine</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Chile</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td id="green">3</td>
+<td id="green">5</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Faroe Islands</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Poland</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td>1</td>
+<td id="green">6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Palestine</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">4</td>
+<td>4</td>
+<td id="green">22</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Bosnia and Herzegovina</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td>2</td>
+<td id="green">3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Slovenia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td id="green">7</td>
+<td id="green">12</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>South Africa</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td id="green">2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Hungary</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td id="green">4</td>
+<td id="green">5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Bhutan</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Cameroon</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Costa Rica</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Peru</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Serbia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Slovakia</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td id="green">3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Togo</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Vatican City</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>MS River Anuket</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">45</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Grand Princess</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">21</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Malta</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Maldives</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Moldova</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Paraguay</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td id="green">1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+</table>
+
+<h1>More Data Coming Soon!</h1>
+
+</body>
+</html>
